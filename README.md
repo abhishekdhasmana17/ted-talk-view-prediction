@@ -7,8 +7,8 @@ Number of features: 19
 
 The dataset contains features like:
 
-talk_id: Talk identification number provided by TED
-title: Title of the talk
+- talk_id: Talk identification number provided by TED
+- title: Title of the talk
 speaker_1: First speaker in TED's speaker list
 all_speakers: Speakers in the talk
 occupations: Occupations of the speakers
